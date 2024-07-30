@@ -18,7 +18,8 @@ class Aluno (Pessoa):
         self.lista_notas = []
         
     def lista_notas(self):
-
+        nota = nota
+        self.lista_notas.append()
         
 
     def get_turma(self):
